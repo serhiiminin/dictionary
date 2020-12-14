@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/dictionary/static/js/main.cc0f79c8.chunk.js",
+    "main.js.map": "/dictionary/static/js/main.cc0f79c8.chunk.js.map",
+    "runtime-main.js": "/dictionary/static/js/runtime-main.4149271b.js",
+    "runtime-main.js.map": "/dictionary/static/js/runtime-main.4149271b.js.map",
+    "static/js/2.dcc8e79e.chunk.js": "/dictionary/static/js/2.dcc8e79e.chunk.js",
+    "static/js/2.dcc8e79e.chunk.js.map": "/dictionary/static/js/2.dcc8e79e.chunk.js.map",
+    "index.html": "/dictionary/index.html",
+    "precache-manifest.1680a96a5ef5e5fe82caa739fcd90001.js": "/dictionary/precache-manifest.1680a96a5ef5e5fe82caa739fcd90001.js",
+    "service-worker.js": "/dictionary/service-worker.js",
+    "static/media/cairo-bold.eot": "/dictionary/static/media/cairo-bold.392ac39c.eot",
+    "static/media/cairo-bold.woff": "/dictionary/static/media/cairo-bold.3abac7e4.woff",
+    "static/media/cairo-bold.woff2": "/dictionary/static/media/cairo-bold.46033620.woff2",
+    "static/media/cairo-bold.svg": "/dictionary/static/media/cairo-bold.e80068d0.svg",
+    "static/media/cairo-bold.ttf": "/dictionary/static/media/cairo-bold.f0be5031.ttf",
+    "static/media/cairo-regular.eot": "/dictionary/static/media/cairo-regular.307c27f9.eot",
+    "static/media/cairo-regular.ttf": "/dictionary/static/media/cairo-regular.61fa4206.ttf",
+    "static/media/cairo-regular.woff": "/dictionary/static/media/cairo-regular.b24d081b.woff",
+    "static/media/cairo-regular.woff2": "/dictionary/static/media/cairo-regular.ba102829.woff2",
+    "static/media/cairo-regular.svg": "/dictionary/static/media/cairo-regular.c6f9cfc6.svg",
+    "static/media/crying-girl.ab310ed6.svg": "/dictionary/static/media/crying-girl.ab310ed6.svg",
+    "static/media/logo.bd58af2d.svg": "/dictionary/static/media/logo.bd58af2d.svg"
+  }
+}
